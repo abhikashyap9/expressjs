@@ -1,0 +1,43 @@
+[{
+    "name":"The Friendship Peak hill new",
+    "durations":"1",
+    "maxGroupSize":12,
+    "difficulty":"High",
+    "ratingsQuantity":9,
+    "rating":"4.2",
+    "price":"900",
+    "priceDiscount":50,
+    "summary":"Beautiful Hills",
+    "description":"Snowy hills and Beautiful trail",
+    "imageCover":"West side",
+    "image":"1.jpg"
+},
+{
+    "name":"The Snowy Ranges",
+    "durations":"1",
+    "maxGroupSize":12,
+    "difficulty":"High",
+    "ratingsQuantity":9,
+    "rating":"4.2",
+    "price":"900",
+    "priceDiscount":50,
+    "summary":"Beautiful Hills",
+    "description":"Snowy hills and Beautiful trail",
+    "imageCover":"West side",
+    "image":"1.jpg"
+},
+{
+    "name":"The kali ghati",
+    "durations":"1",
+    "maxGroupSize":12,
+    "difficulty":"High",
+    "ratingsQuantity":9,
+    "rating":"4.2",
+    "price":"900",
+    "priceDiscount":50,
+    "summary":"Beautiful Hills",
+    "description":"Snowy hills and Beautiful trail",
+    "imageCover":"West side",
+    "image":"1.jpg"
+}
+]
